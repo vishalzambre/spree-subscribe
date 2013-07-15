@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_subscribe'
+  s.name        = 'spree-subscribe'
   s.version     = '2.0.0'
   s.summary     = ''
   s.description = ''
